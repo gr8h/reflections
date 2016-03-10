@@ -8,3 +8,7 @@ How is the staging area different from the working directory and the repository?
 - Staging area is just a place where we add related files to be commited in a single commit
 - Working directory is the place where all the files in the directory are considerd
 - Repository is what allow git to keep track of the staging area and the working dir
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By running git status command
